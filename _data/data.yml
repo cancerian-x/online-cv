@@ -64,9 +64,9 @@ education:
       details: |
         Learned many things as listed below. Would love to do masters in 
         the future from the same university or a better one. I have listed
-        All the modules along with their topics that were taught each 
-        session to have an understanding of my knowledge in cyber security
-        gained from the university.
+        all the modules along with the topics that were taught each 
+        session for you to have an understanding of my knowledge in 
+        cyber security gained from the university.
         
           - Cyber Security Tools and Practices – Capture The Flag, Sand Boxing Virtual Machines, Report Writing, Computer Forensics And Security, Python, Cryptography, And Steganography, FTK Imager, Password Recovery And Networking.
           - Secure Server Configuration And Networks – Networks & Servers, Network Services; IP/DHCP/DNS, Remote Access, Email And Web, Web Security, Windows Server, Managing Users On Windows Server, Network Security And Wireless Networks, CCNA, Binary And Data, Ipv4 And Subnetting + VLSM, Network Protocols, OSI Layers And TCP/IP Layers.
@@ -80,91 +80,23 @@ education:
 
           
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Looking for Exprience
+      time: 2022
+      company: Mostly an SME, but large organisation would be ideal.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I haven't worked because I wanted to perform at my best at university.
+        Therefore I have no experience but if I never get a job I will never
+        have exprience and I will be stuck in the endless cycle of being jobless.
+        
 projects:
-    title: Projects
+    title: Dissertation
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I worked on a cyber related project specifically relating to technology in this
+      project.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Cyber Terrorism and its impact on Technology
+        link: "https://docs.google.com/document/d/1UIRvxIj7mb6102FJpi2lUSck8q3pcEeH/edit?usp=sharing&ouid=112594786158179166451&rtpof=true&sd=true"
+        tagline: "An indepth analysis of latest trends relating to SMEs with their legacy as well as new technologies in use."
 
 skills:
     title: Skills &amp; Proficiency
