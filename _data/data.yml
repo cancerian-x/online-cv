@@ -16,7 +16,7 @@ sidebar:
     phone: 0044 7847 711 013
     timezone: Great Britain/GMT
     citizenship: British
-    website: cancerian-x.github.io/ #do not add http://
+    website: cancerian-x.github.io #do not add http://
     linkedin: aurangzaib-baloch
     xing: Aurangzaib_Baloch
     github: cancerian-x
@@ -24,7 +24,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@bezanjo93'
-    stack-overflow: aurang-zaib-baloch
+    stack-overflow: 12244226
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://drive.google.com/file/d/1jO6XHI7bMsXxnLoCkR7ZABg6npboNTVE/view?usp=sharing
@@ -52,10 +52,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Graduate of Bachelors in Science in Applied Cyber Security gaining 
-      a first class honours degree. Looking for Full-time employment to 
-      Implement the skills learned. Particularly a junior position as a
-      starter. I am pro-active and pay full attentionto detail. 
+      A graduate of Bachelors in Science in the subject Applied Cyber Security
+      gaining a first class honours degree. Looking for Full-time employment to
+      Implement the skills learned. Particularly a junior position as a starter. 
+      I am pro-active and pay full attentionto detail. 
       I believe I can do anything I set my mind to without hesitation.
 education:
     - degree: Bsc in Cyber Security
