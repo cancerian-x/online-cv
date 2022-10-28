@@ -27,16 +27,16 @@ sidebar:
     stack-overflow: 12244226
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/18V4jHJWSO__K0TGt8hf_k--HDK9F8c0a/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1X7EwjUhrr77HRGc8H-K7Jerum1UO8pAm/view?usp=sharing
 
     languages:
-      - idiom: English
+      - idiom: Balochi
         level: Native
 
-      - idiom: Urdu
+      - idiom: English
         level: Professional
 
-      - idiom: Balochi
+      - idiom: Urdu
         level: Professional
 
     interests:
@@ -84,15 +84,15 @@ experiences:
       time: 2022
       company: Looking to work for an SME or even better a large organisation.
       details: |
-        I haven't worked because I wanted to perform at my best at university.
-        Therefore I have no experience but if I never get a job I will never
-        have exprience and I will be stuck in the endless cycle of being jobless.
+        I did not work because I wanted to perform at my best in university.
+        Therefore I have no experience but if I never get a job, I will never
+        have any exprience and I will be stuck in the endless cycle of being jobless.
         
 projects:
     title: Dissertation
     intro: >
-      Reason why I choose this topic was because it was broad and alot can be said
-      and done on this. Giving me flexiblity in commencing through my project.
+      Reason why I choose this topic was because it was broad and alot is going on in this topic. 
+      This gave me flexiblity in commencing with my project.
     assignments:
       - title: Cyber Terrorism and its impact on Technology
         link: "https://docs.google.com/document/d/1UIRvxIj7mb6102FJpi2lUSck8q3pcEeH/edit?usp=sharing&ouid=112594786158179166451&rtpof=true&sd=true"
