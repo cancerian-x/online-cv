@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Aurangzaib Baloch
-    tagline: BSc.  Honours First Class Cyber Security Graduate
+    tagline: BSc.  Honours First Class Applied Cyber Security Degree Under-graduate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,24 +52,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A graduate of Bachelors in Science in the subject Applied Cyber Security
-      gaining a first class honours degree. Looking for fulltime employment to
-      Implement the skills learned. Particularly a junior position as a starter. 
-      I am pro-active and pay full attentionto detail. 
-      I believe I can do anything I set my mind to without hesitation with reasons.
-      I do not hold any work exprience but I am willing to change it by working full
-      time
+      A first class Bachelors in Science undergraduate in Applied Cyber Security. 
+      Looking for fulltime employment to Implement the skills learned in a well-established organisation.
+      Particularly looking for a junior/tier 1 position as a starter.
+      I am pro-active and I believe I can do anything I set my mind
+      to without any problem but also making sure that its done right.
+      I do not hold any work exprience but I am willing to change it by working full time asap.
       
 education:
     - degree: Bsc in Cyber Security
       university: University of SouthWales
       time: 2019 - 2022
       details: |
-        Learned many things as listed below. Would love to do masters in 
-        the future from the same university or a better one. I have listed
-        all the modules along with the topics that were taught each 
-        session for you to have an understanding of my knowledge in 
-        cyber security gained from the university.
+        Learned many things as listed below. Would love to do masters in the future.
+        I have listed all the modules along with the topics that were taught to give
+        you an insight of my knowledge in cyber security.
         
           - Cyber Security Tools and Practices – Capture The Flag, Sand Boxing Virtual Machines, Report Writing, Computer Forensics And Security, Python, Cryptography, And Steganography, FTK Imager, Password Recovery And Networking.
           - Secure Server Configuration And Networks – Networks & Servers, Network Services; IP/DHCP/DNS, Remote Access, Email And Web, Web Security, Windows Server, Managing Users On Windows Server, Network Security And Wireless Networks, CCNA, Binary And Data, Ipv4 And Subnetting + VLSM, Network Protocols, OSI Layers And TCP/IP Layers.
@@ -85,7 +82,7 @@ education:
 experiences:
     - role: Looking for Exprience
       time: 2022
-      company: Looking to work for an SME for a starter. But can co-op with large enterprises too.
+      company: Looking to work for an SME or even better a large organisation.
       details: |
         I haven't worked because I wanted to perform at my best at university.
         Therefore I have no experience but if I never get a job I will never
@@ -105,26 +102,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & C++
+      - name: Programming (Python & C++)
         level: 50%
 
-      - name: Risk Analysis
+      - name: Cyber Security
         level: 98%
 
-      - name: Malware Analysis
+      - name: Governance
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Digital Forensics
         level: 95%
 
-      - name: Offensive Security
-        level: 75%
+      - name: Networking
+        level: 40%
 
-      - name: Photoshop
+      - name: Offensive Security
         level: 60%
         
-      - name: Regulatory Compliance
-        level: 75%
+      - name: Security Operation Centre
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
