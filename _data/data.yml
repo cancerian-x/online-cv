@@ -68,23 +68,23 @@ education:
         I have listed all the modules along with the topics that were taught to give
         you an insight of my knowledge in cyber security.
         
-          - 1. Cyber Security Tools and Practices 
+          - 1 - Cyber Security Tools and Practices 
           Capture The Flag, Sand Boxing Virtual Machines, Report Writing, Computer Forensics And Security, Python, Cryptography, And Steganography, FTK Imager, Password Recovery And Networking.
-          - 2. Secure Server Configuration And Networks
+          - 2 - Secure Server Configuration And Networks
           Networks & Servers, Network Services; IP/DHCP/DNS, Remote Access, Email And Web, Web Security, Windows Server, Managing Users On Windows Server, Network Security And Wireless Networks, CCNA, Binary And Data, Ipv4 And Subnetting + VLSM, Network Protocols, OSI Layers And TCP/IP Layers.
-          - 3. Secure Systems
+          - 3 - Secure Systems
           Current Threats, Network Protocols And Services, Host Based Analysis, System Security Fundamentals, Cryptography PKI, Network Services Targeted Threats & Attacks, Secure Network Designs, Vulnerability Mapping & Security Testing, Cyber Ops Associate.
-          - 4. Digital Crime Scene Management
+          - 4 - Digital Crime Scene Management
           Case & Evidential Management + Imaging, Investigation Phases, Search Warrants & Crime Scene, Magnet Axiom, Investigation Of Disk Drives, OS Artifacts Etc., Metadata, ISO 17025, Windows 10 And MAC Forensics, Virtual Crime Scene, Expert Witness Reports.
-          - 5. Governance
+          - 5 - Governance
           Audit Planning, Project Management, Risk Management, Frameworks Relating To Risk Management ISO 31000, NIST, ISO 27005 Etc., IT Audit, Governance And IT Management, IT Related Frameworks; ISO 27001/2/ISMS/Cobit, Enterprise Architecture, Organisation Structure, Human Resources, Identity & Access Management, System Performance Management, Incident And Problem Management, Change/Patch And Release Management, IT Service Level Management & Data Backup, IT Service Provider Acquisition And Management.
-          - 6. Essentials of Professionals Skills in Cyber Security and Governance
+          - 6 - Essentials of Professionals Skills in Cyber Security and Governance
           Personal Development, The Art Of Reflection, Report Writing/Referencing, Belbin Roles & Teamwork, Managing A Project & Peer Assessment, Ethics & The IT Professional, Motivative Theories, Being Effective In The Workplace, Research Methods, Policies, Careers And The World Of Work, Cyber Essentials, Dean McCarten, Cyber Governance.
-          - 7. Advanced System Security
+          - 7 - Advanced System Security
           Computer Architecture Fundamentals, Security And C Programming, Pen Testing; Info Gathering/Target Discovery & Enumeration/Vulnerability Mapping/Vulnerability Exploitation/Users And Advanced Enumeration, Web Security/Web App Security: Injection, Web Application Vulnerabilities (CVE’s), Flare VM, Malware Analysis; Static And Dynamic, Reverse Engineering; Unpacking/Decompiling And Disassembly Of Malware, Root Kits, Advanced Social Engineering, Pen Test Reporting Writing And Continued.
-          - 8. Incident Response
+          - 8 - Incident Response
           Handling Incidents, Incident Verification, Evidence Collection In Incident Response, Linux Forensics, Activity Timeline Analysis (For Incident Response), Threat Hunting In The Memory, Malware Analysis Inside-Out Unknown Binary Files.
-          - 9. Dissertation
+          - 9 - Dissertation
 
           
 experiences:
